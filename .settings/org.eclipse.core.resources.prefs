@@ -1,0 +1,13 @@
+#Thu May 05 18:00:11 GMT-03:00 2011
+eclipse.preferences.version=1
+encoding//Eval/LogSentEval.py=UTF-8
+encoding//Logic/Expressoes.py=UTF-8
+encoding//Logic/Inferencias.py=UTF-8
+encoding//Logic/Interpretadores.py=UTF-8
+encoding//Util/Constants.py=UTF-8
+encoding//Util/Excessoes.py=UTF-8
+encoding//Util/Util.py=UTF-8
+encoding//Wiri/LogSentWiri.py=UTF-8
+encoding//__Tests__/GeneralTest.py=UTF-8
+encoding/Main.py=UTF-8
+encoding/setup.py=UTF-8
